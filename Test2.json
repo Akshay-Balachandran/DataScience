@@ -1,0 +1,6 @@
+{
+  "name": "urgent-bug",
+  "color": "ff0000",
+  "description": "Issues that block release and must be fixed immediately",
+  "open_issues_count": 12
+}
